@@ -1,0 +1,19 @@
+.btn-info{
+    font-size:25px;
+    padding:20px;
+}
+
+.btn-warning{
+    font-size:16px;
+    padding:5px;
+    margin-top:10px;
+}
+
+.btn-danger{
+    font-size:18px;
+    padding:10px;
+}
+
+canvas{
+    border:10px groove #d2d2d2;
+}
